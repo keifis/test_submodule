@@ -1,0 +1,3 @@
+[submodule "resource_test"]
+	path = resource_test
+	url = https://github.com/keifis/resource_test.git
